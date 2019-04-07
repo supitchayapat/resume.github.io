@@ -1,0 +1,146 @@
+{
+  "main": {
+    "name": "Supitchaya Sailabaht",
+    "occupation": "Studying at kasetsart university ",
+    "description": "I am studying at the Faculty of Computer Science.",
+    "image": "profilepic.jpg",
+    "bio": " I'm study programming in Com Sci major.",
+    "email": "patmeant@gmail.com",
+    "phone": "0877194672",
+    "address": {
+      "street": "Prachautid  79",
+      "city": "BKK",
+      "state": "Thailand",
+      "zip": "10140"
+    },
+    "website": "https://github.com/supitchayapat",
+    "resumedownload": "#",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100004528579310",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/elfkh129",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/patsailabaht_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/supitchayapat",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "kasetsart university",
+        "degree": "Bachelor",
+        "graduated": "May 2019",
+        "description": "Bachelor at kasetsart university major Computer Science."
+      },
+      {
+        "school": "Islamic College of Thailand",
+        "degree": "Math-Science",
+        "graduated": "March 1015",
+        "description": "Gifted math-science."
+      }
+    ],
+    "Hightschool": [
+      {
+        "company": "Bangpakok Wittayakom School",
+        "title": " king class academy ",
+        "years": "March 2012",
+        "description": "King class in Math major."
+      }
+    ],
+    "skills": [
+      {
+        "name": "๋Java",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "55%"
+      },
+      {
+        "name": "SQL",
+        "level": "50%"
+      },
+      {
+        "name": "PHP",
+        "level": "30%"
+      },
+      {
+        "name": "FLUTTER",
+        "level": "40%"
+      },
+      {
+        "name": "C+",
+        "level": "50%"
+      },
+      {
+        "name": "Pandas",
+        "level":"60%"
+      }
+
+
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Harbour Management Software",
+        "description": "Manage ship entry,Planning system , Design Software , Development Software , Java language, SQL language",
+        "category": "java,diagram,database",
+        "tags": "Software development",
+        "image": "01.png"
+      },
+      {
+        "title": "AlarmClock Software",
+        "description": "An alarm clock as an application. It displays the current time. If the user set a wake up time, it shows remaining time and sounds an alarm if wake up time reached In order to do math problems.",
+        "category": "JAVA AND SQL",
+        "tags": "alarm clock ",
+        "image": "02.jpg"
+
+      },
+      {
+        "title": "The-Cashier Software",
+        "description": "This project’s objective is to implement a Point Of Sale for the management of a restaurant’s order system,",
+        "category": "java, clound , python",
+        "tags": "Pos project",
+        "image": "judah.jpg"
+      },
+      {
+        "title": "Data Analytics and Visualization",
+        "description": "Analyze customer behavior from Wongnai information .",
+        "category": "pandas,python,mathlab",
+        "tags": "datasci",
+        "image": "into-the-light.jpg"
+      },
+      {
+        "title": "ForestTracking Mobile Application",
+        "description": "Applications to track trekkers to prevent wandering within the forest.",
+        "category": "ionic,php,atom",
+        "tags": "tracking gps",
+        "image": "023.png"
+        
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I'm Studying at kasetsart university",
+        "user": "Supitchaya Sailabaht"
+      }
+    ]
+  }
+}
