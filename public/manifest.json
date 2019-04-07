@@ -2,7 +2,7 @@
   "main": {
     "name": "Supitchaya Sailabaht",
     "occupation": "Studying at kasetsart university ",
-    "description": "I am studying at the Faculty of Computer Science.",
+    "description": "I am studying the Faculty of Computer Science.",
     "image": "profilepic.jpg",
     "bio": " I'm study programming in Com Sci major.",
     "email": "patmeant@gmail.com",
@@ -63,7 +63,7 @@
     ],
     "skills": [
       {
-        "name": "๋Java",
+        "name": "Java",
         "level": "70%"
       },
       {
